@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Alif Munim's LinkedIn Profile](https://www.linkedin.com/in/alif-munim-a6817a198/)
