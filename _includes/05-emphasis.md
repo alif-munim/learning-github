@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my major skills include **web development** and **graphic design**.
+*Recently, I've decided to focus on web development.*
