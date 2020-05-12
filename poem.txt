@@ -6,3 +6,4 @@ Hippopotamus.
 Deforestation.
 
 Addressing issue #3, my first issue. 
+This line will fix issue #3.
