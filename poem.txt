@@ -1,4 +1,5 @@
 Haikus are easy.
 But sometimes they don't make sense.
-This line is a mistake.
 Hippopotamus.
+
+This line is a mistake.
