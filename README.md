@@ -13,3 +13,6 @@
 Specific `keywords` can be highlighted using `backticks`.
 
 > Blockquotes stand out against other monotonous text.
+
+### Emojis?
+:rocket: :+1:
