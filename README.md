@@ -7,5 +7,9 @@
 |##      | Heading 2     |
 |###     | Heading 3     |
 
+---
+
 ### Syntax Highlighting
 Specific `keywords` can be highlighted using `backticks`.
+
+> Blockquotes stand out against other monotonous text.
